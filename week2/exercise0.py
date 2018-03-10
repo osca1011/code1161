@@ -44,7 +44,7 @@ def really_shout(a_string):
     """
     return a_string + '!'
 
-def shout_with_a_number(a_string, a_number):
+def shout_with_a_number(a_string , a_number):
     """Return a string in uppercase with a space and a_number concatentated.
     E.g.
     >>> shout_with_a_number('hello', 42)
