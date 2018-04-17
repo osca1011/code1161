@@ -106,10 +106,6 @@ if __name__ == "__main__":
     print("\nstubborn_asker")
     stubborn_asker(30, 45)
     print("\nnot_number_rejector")
-<<<<<<< HEAD
    re12ww- not_number_rejector()
-=======
-    not_number_rejector("Enter a number: ")
->>>>>>> 3adb1299b068779759c7c93c3c93208c6bcbabcd
     print("\nsuper_asker")
     super_asker(33, 42)
